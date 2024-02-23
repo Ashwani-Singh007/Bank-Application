@@ -7,9 +7,9 @@
  11-Digit Account Number (generated with the following process: 1 or 2 depending on savings or checking, last two digits of SSN, Unique 5-digit number, and random 3-digit number).
 5. Savings Account holders are given a Safety Deposit Box, identified by a 3-digit number and accessed with a 4-digit code.
 6. Checking Account holders are assigned a Debit Card with a 12-digit number and a 4-digit PIN.
-7. Both accounts will use an interface that determines the base interest rate.<br>
- * Saving accounts will use 0.25 points less than the Base Rate. <br>
- * Checking accounts will use 15% of the Base Rate.
+7. Both accounts will use an interface that determines the base interest rate.
+  * Saving accounts will use 0.25 points less than the Base Rate. 
+  * Checking accounts will use 15% of the Base Rate.
 10. The showInfo should reveal relevant account information as well as information specific to the checking account or savings account.<br>
 # Learning Objectives:
 * Learn to develop robust application architecture.
